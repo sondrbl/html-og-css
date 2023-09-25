@@ -110,3 +110,31 @@ p{
     display: block;
     margin: 0 auto;
 }
+
+footer nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+footer nav ul li a{
+    padding: 0.5rem;
+}
+
+#social-icons{
+    padding: 0;
+    margin: 1rem 0;
+    text-align: center;
+}
+
+#social-icons li{
+    display: inline-block;
+    background-color: #000;
+    color: #fff;
+    width: 50px;
+    height: 50px;
+    padding: 0.5rem;
+    border-radius: 50px;
+    
+}
